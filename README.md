@@ -9,6 +9,7 @@
 - [Foundation Degree Website](https://github.com/EthanRussell2003/Foundation_Degree_Interactive_Website)
 - [Foundation Degree Python Console Poll Booth](https://github.com/EthanRussell2003/Foundation_Degree_Python_Poll_Booth)
 - [Foundation Degree Java Medication Delivery Application](https://github.com/EthanRussell2003/Foundation_Degree_Java_Medication_Delivery/tree/main)
+- [Foundation Degree Platform Development App](https://github.com/EthanRussell2003/Foundation_Degree_Platform_Development_App)
 
 <h2>📜 Qualifications</h2>
 - Foundation Degree In Software Engineering - S1 Distinction <br>
