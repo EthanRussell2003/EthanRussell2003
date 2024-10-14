@@ -12,6 +12,39 @@
 
 <h2>📜 Qualifications</h2>
 
+- Foundation Degree In Software Engineering Year 2:
+<table>
+  <tr>
+    <th>Module</th>
+    <th>Coursework</th>
+    <th>Examination</th>
+    <th>Total</th>
+  </tr>
+  <tr>
+    <td>Maths for Software Engineers COM 256</td>
+    <td>73</td>
+    <td>78</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>Platform Development CMP 304</td>
+    <td>80</td>
+    <td>N/A</td>
+    <td>80</td>
+  </tr>
+    <tr>
+    <td>Software Testing CMP 305</td>
+    <td>81</td>
+    <td>N/A</td>
+    <td>81</td>
+  </tr>
+    <tr>
+    <td>Work Based Learning COM 477</td>
+    <td>90</td>
+    <td>N/A</td>
+    <td>90</td>
+  </tr>
+  </table>
 - Foundation Degree In Software Engineering Year 1:
   <table>
   <tr>
@@ -57,8 +90,6 @@
     <td>93</td>
   </tr>
   </table>
-- Foundation Degree In Software Engineering Year 2:<br>
-<t>- Pending
 - Information Technology Specialist
 - A Level Software System Development - A
 - A Level Maths - C
