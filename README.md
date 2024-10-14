@@ -11,7 +11,7 @@
 - [Foundation Degree Java Medication Delivery Application](https://github.com/EthanRussell2003/Foundation_Degree_Java_Medication_Delivery/tree/main)
 
 <h2>📜 Qualifications</h2>
-
+- Foundation Degree In Software Engineering - S1 Distinction
 - Foundation Degree In Software Engineering Year 2:
 <table>
   <tr>
