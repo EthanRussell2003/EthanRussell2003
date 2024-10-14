@@ -90,10 +90,10 @@
     <td>93</td>
   </tr>
   </table>
-- Information Technology Specialist
-- A Level Software System Development - A
-- A Level Maths - C
-- GCSE Computing - 9
-- GCSE Maths - A
-- GCSE Further Maths - C
-- GCSE English & English Literature - A
+- Information Technology Specialist <br>
+- A Level Software System Development - A <br>
+- A Level Maths - C <br>
+- GCSE Computing - 9 <br>
+- GCSE Maths - A <br>
+- GCSE Further Maths - C <br>
+- GCSE English & English Literature - A <br>
